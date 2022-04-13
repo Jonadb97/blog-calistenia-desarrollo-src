@@ -1,0 +1,9 @@
+---
+layout: ejercicio
+title: "Dominadas"
+categories: ejercicio espalda tracción
+tags: dorsales espalda tracción
+---
+
+<div class="video-responsive">
+<iframe width="560" height="315" src="https://www.youtube.com/embed/t5Xv3Zermvw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>

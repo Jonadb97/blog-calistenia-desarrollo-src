@@ -1,0 +1,9 @@
+---
+layout: ejercicio
+title: "Retracciones escapulares en remo"
+categories: ejercicio espalda
+tags: dorsales espalda
+---
+
+<div class="video-responsive">
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UlyDHKz2DLU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>

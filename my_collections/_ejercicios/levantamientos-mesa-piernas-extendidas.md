@@ -1,0 +1,9 @@
+---
+layout: ejercicio
+title: "Levantamientos a mesa con piernas extendidas"
+categories: ejercicio espalda
+tags: [espalda, abdominales, movilidad]
+---
+
+<div class="video-responsive">
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JHH5mnec2s0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
